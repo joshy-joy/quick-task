@@ -1,6 +1,11 @@
 # quick-task
 Quick Task
 
+### Installation
+```
+pip install -r requirements.txt
+```
+
 ### Create User API
 
 ```
